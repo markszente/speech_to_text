@@ -368,7 +368,7 @@ class SpeechToText {
   ///
   /// [onSoundLevelChange] is an optional listener that is notified when the
   /// sound level of the input changes. Use this to update the UI in response to
-  /// more or less input. The values currently differ between Ancroid and iOS,
+  /// more or less input. The values currently differ between Android and iOS,
   /// haven't yet been able to determine from the Android documentation what the
   /// value means. On iOS the value returned is in decibels.
   ///
